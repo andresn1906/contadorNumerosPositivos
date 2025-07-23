@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContadorNumerosPositivos", "ContadorNumerosPositivos.csproj", "{5B8578C5-5BA3-D8EC-DF8A-C2864313D454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B8578C5-5BA3-D8EC-DF8A-C2864313D454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8578C5-5BA3-D8EC-DF8A-C2864313D454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8578C5-5BA3-D8EC-DF8A-C2864313D454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8578C5-5BA3-D8EC-DF8A-C2864313D454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7AB3789-AD1C-4212-B853-60F08A33C785}
+	EndGlobalSection
+EndGlobal

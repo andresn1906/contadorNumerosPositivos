@@ -1,0 +1,14 @@
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\bin\Debug\net8.0\ContadorNumerosPositivos.exe
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\bin\Debug\net8.0\ContadorNumerosPositivos.deps.json
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\bin\Debug\net8.0\ContadorNumerosPositivos.runtimeconfig.json
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\bin\Debug\net8.0\ContadorNumerosPositivos.dll
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\bin\Debug\net8.0\ContadorNumerosPositivos.pdb
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\obj\Debug\net8.0\ContadorNumerosPositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\obj\Debug\net8.0\ContadorNumerosPositivos.AssemblyInfoInputs.cache
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\obj\Debug\net8.0\ContadorNumerosPositivos.AssemblyInfo.cs
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\obj\Debug\net8.0\ContadorNumerosPositivos.csproj.CoreCompileInputs.cache
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\obj\Debug\net8.0\ContadorNumerosPositivos.dll
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\obj\Debug\net8.0\refint\ContadorNumerosPositivos.dll
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\obj\Debug\net8.0\ContadorNumerosPositivos.pdb
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\obj\Debug\net8.0\ContadorNumerosPositivos.genruntimeconfig.cache
+C:\Users\Violeta19\OneDrive\Escritorio\Programación\ContadorNumerosPositivos\obj\Debug\net8.0\ref\ContadorNumerosPositivos.dll
